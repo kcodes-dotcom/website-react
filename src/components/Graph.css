@@ -1,0 +1,8 @@
+.graph {
+  background-color: #3e5c4d;
+  border-radius: 12px;
+  padding: 1rem;
+  color: white;
+  width: 100%;
+  min-height: 300px;
+}
